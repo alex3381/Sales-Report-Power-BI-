@@ -3,10 +3,13 @@
 
 # DATA CLEANING AND TRANSFORMATION
 
+
 Introduction:
 In the pursuit of showcasing proficiency in data manipulation and visualisation, this report details the process of data cleaning and transformation undertaken using Power BI. The dataset utilised for this demonstration was extracted from Microsoft SQL Management Studio in .CSV format.
 Data Extraction:
 The initial step involved extracting the dataset from Microsoft SQL Management Studio into Power BI. This facilitated a seamless transition of the data for subsequent analysis and visualisation.
+
+<img width="1460" alt="Screenshot 2023-12-31 at 3 33 36 pm" src="https://github.com/alex3381/Sales-Report-Power-BI-/assets/59268114/b600c4ca-3e7d-4879-bcd0-8b102cfc34e6">
 
 Data Cleaning:
 The subsequent phase cantered on data cleaning, wherein the Power Query functionality was employed. The primary focus of this phase was to enhance data integrity and coherence.
