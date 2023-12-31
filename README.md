@@ -11,6 +11,8 @@ The initial step involved extracting the dataset from Microsoft SQL Management S
 
 <img width="1460" alt="Screenshot 2023-12-31 at 3 33 36 pm" src="https://github.com/alex3381/Sales-Report-Power-BI-/assets/59268114/b600c4ca-3e7d-4879-bcd0-8b102cfc34e6">
 
+
+
 Data Cleaning:
 The subsequent phase cantered on data cleaning, wherein the Power Query functionality was employed. The primary focus of this phase was to enhance data integrity and coherence.
 * 		Transformation of Prize Size Column:
@@ -25,6 +27,9 @@ The subsequent phase cantered on data cleaning, wherein the Power Query function
 * 		To augment the dataset's informational richness, additional columns were added strategically. This step involved the inclusion of pertinent data points to facilitate comprehensive analysis and visualization.
 Conclusion:
 In conclusion, the meticulous process of data cleaning and transformation using Power BI underscores the commitment to data quality and analytical precision. This endeavor not only ensures the integrity of the dataset but also lays the foundation for insightful and meaningful data visualization, thereby contributing to informed decision-making processes.
+
+https://github.com/alex3381/Sales-Report-Power-BI-/assets/59268114/809a8147-97d7-4ae9-8440-69f477efaed7
+
 
 
 # Problem Statement and Key Performance Indicators (KPIs) Requirements:
